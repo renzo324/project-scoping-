@@ -1,0 +1,18 @@
+#app{
+	background-color: red;
+	margin: 10% 0;
+	padding: 15% 15%;
+}
+#getStarted{
+	margin: 5% 40% 0;
+}
+#choices {
+	
+}
+#choices li{
+	display: inline-block;
+	margin: 5%;
+}
+#choices a {
+	
+}
