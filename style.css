@@ -1,3 +1,8 @@
+.navButts{
+	margin-top: 5%;
+    float: right;
+    color: white;
+}
 #app{
 	background-color: red;
 	margin: 10% 0;
@@ -6,13 +11,8 @@
 #getStarted{
 	margin: 5% 40% 0;
 }
-#choices {
-	
+#choices label{
+	margin: 0 10%;
+	border-radius: .25rem !important;
 }
-#choices li{
-	display: inline-block;
-	margin: 5%;
-}
-#choices a {
-	
-}
+
